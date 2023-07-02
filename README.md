@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelkareem 
-- 👀 I’m a Full stack developer mainly using .NET technologies
+- 👀 I’m a Full stack developer mainly using .NET technologies & React.js
 - 📫 you can contact me throw https://www.linkedin.com/in/abdelkareem-salah
 
 <!---
